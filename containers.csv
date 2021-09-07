@@ -1,0 +1,3 @@
+instance name,docker image name,registry,background(Y or N)
+AWS-01-AmazonLinuxAMI,hellocloud,dastacey,N
+AWS-01-UbuntuLTS,mongo,library,Y

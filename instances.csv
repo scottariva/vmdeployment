@@ -1,0 +1,5 @@
+platform,instance name,vm name,vm size,storage(Y or N),storage type,storage size,ssh key file name
+AWS,Red Hat Enterprise Linux 8,azure2,t2.micro,N,NULL,0,team01.pem
+AWS,Ubuntu server 18.04 LTS,azure3,t2.micro,N,NULL,0,team02.pem
+Azure,Ubuntu Server 16.04 LTS,azure2,Standard_DS1,N,NULL,0,team03.pem
+Azure,Ubuntu Server 16.04 LTS,azure1,Standard_DS1,N,NULL,0,team04.pem
